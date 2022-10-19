@@ -11,6 +11,8 @@ by clicking on this button the Windows explorer will open automatically allowing
 for the tests, the application is provided with 6 sets of points in the same folder. 
 
 - The points in the chosen file should be as follows: X Y
+
+
 ![image](https://user-images.githubusercontent.com/100854035/196782535-2b9e7a15-94d3-4924-a13c-05531e0e0941.png)
 
 - The Draw button 'Tracer Delaunay':
